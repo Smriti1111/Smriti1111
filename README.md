@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 
-- 🏢 **Data Analyst** with over **5 years of experience** in **Insurance, Finance**, and **Healthcare** industries.
+- 🏢 **Business Data Analyst** with over **5 years of experience** in **Insurance, Finance**, and **Healthcare** industries.
 - 📊 Passionate about **data-driven insights** that improve decision-making and business outcomes.
 - 🤖 Skilled in **Machine Learning**, **Risk Management**, and **Fraud Detection** using tools like **Kafka**, **Python**, **Power BI**, and **Tableau**.
 - 🔧 Experience in building **data pipelines**, predictive models, and conducting **exploratory data analysis**.
